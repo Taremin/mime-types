@@ -31,6 +31,7 @@
     "HISTORY.md",
     "LICENSE",
     "index.js",
+    "extname.js",
     "mimeScore.js"
   ],
   "engines": {
